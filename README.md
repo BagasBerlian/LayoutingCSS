@@ -22,15 +22,13 @@ cd LayoutingCSS
 ```
 
 ### 3. Buka di Browser
-Untuk melihat hasilnya, kamu bisa membuka file `index.html` di browser atau langsung akses versi GitHub Pages:
-
-[Layouting CSS - GitHub Pages](https://bagasberlian.github.io/LayoutingCSS/)
+Untuk melihat hasilnya, kamu bisa membuka file `index.html` di browser
 
 ### 4. Jelajahi dan Modifikasi
 Pelajari struktur file dan coba modifikasi CSS untuk memahami lebih dalam tentang layouting dengan CSS.
 
-## Kontribusi
-Jika kamu ingin berkontribusi dalam pengembangan project ini, silakan fork repository ini dan buat pull request. Setiap kontribusi sangat dihargai!
+## Tugas!
+Ubah style web tersebut menggunakan TailwindCSS, kamu bisa mmapir ke https://tailwindcss.com/ untuk melihat lebih banyak dokumentasi disana 
 
 ## Lisensi
 Project ini dilisensikan di bawah [MIT License](LICENSE).
