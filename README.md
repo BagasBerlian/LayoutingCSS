@@ -1,7 +1,8 @@
 
 # Layouting CSS
 
-Selamat datang di repo **Layouting CSS**! Repo ini berisi contoh-contoh layouting menggunakan CSS yang bisa membantu pemula untuk belajar tata letak pada halaman web.
+Selamat datang di repo **Layouting CSS**! Repo ini berisi contoh-contoh layouting menggunakan CSS yang bisa membantu pemula untuk belajar Layouting dasar pada halaman web.
+Lihat hasil -> https://bagasberlian.github.io/LayoutingCSS/
 
 ## Cara Memulai
 
@@ -28,7 +29,7 @@ Untuk melihat hasilnya, kamu bisa membuka file `index.html` di browser
 Pelajari struktur file dan coba modifikasi CSS untuk memahami lebih dalam tentang layouting dengan CSS.
 
 ## Tugas!
-Ubah style web tersebut menggunakan TailwindCSS, kamu bisa mmapir ke https://tailwindcss.com/ untuk melihat lebih banyak dokumentasi disana 
+Ubah style web tersebut menggunakan TailwindCSS, kamu bisa mampir ke https://tailwindcss.com/ untuk melihat lebih banyak dokumentasi disana 
 
 ## Lisensi
 Project ini dilisensikan di bawah [MIT License](LICENSE).
